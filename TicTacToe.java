@@ -179,7 +179,7 @@ public class TicTacToe {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Hello, welcome to Tic-Tac-Toe.");
+        System.out.println("Hello, welcome to TicTacToe.");
         System.out.println("Would you like to play with a friend or the CPU?");
         System.out.println("Type 1 for friend and 2 for CPU.");
         System.out.println("---------------------------");
